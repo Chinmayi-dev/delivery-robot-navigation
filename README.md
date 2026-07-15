@@ -32,3 +32,8 @@ NetworkX, React Leaflet, OpenStreetMap
 - GPS accuracy: ~4.2 metres
 - SSE latency: under 200ms
 - Validated across 5 delivery routes in Mysuru
+
+## Screenshots
+![Dashboard](screenshots/dashboard.png)
+![Active Delivery](screenshots/active_delivery.png)
+![Obstacles Detection](screenshots/obstacles_detection.png)
