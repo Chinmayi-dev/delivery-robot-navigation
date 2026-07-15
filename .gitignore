@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+
+# Python virtual environment
+venv/
+.venv/
+
+# YOLO output
+runs/
+
+# Dataset
+dataset/
+*.csv
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Node
+node_modules/
+build/
+dist/
+
+# Environment
+.env
+
+# Cache
+cache/
